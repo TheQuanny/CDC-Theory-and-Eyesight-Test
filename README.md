@@ -1,8 +1,12 @@
 # CDCBot.py & EyesightBot.py
 
-CDCBot.py helps get the earliest date for Basic theory test, final theory test, and rider theory test from the CDC website.
+### CDCBot.py helps get the earliest date for Basic theory test, final theory test, and rider theory test from the CDC website.
+
 ![Eyesight Telegram Example](CDCTelegram.png)
-EyesightBot.py gets the earliest eyesight date from the CDC website.
+
+
+### EyesightBot.py gets the earliest eyesight date from the CDC website.
+
 ![Eyesight Telegram Example](EyesightTelegram.png)
 ## How to Use
 
